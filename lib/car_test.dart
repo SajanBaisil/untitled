@@ -36,7 +36,7 @@ void main(){
   print('topspeed : ${carmodel.topspeed = '240 km/h'}');
   print('Seating capacity : ${carmodel.seatingcapacity = 5}');
   print('Driver type : ${Car.drivertype}');
-  price('80 lakh');
+  price('80 lakhs');
   print('----------------------------------------');
 }
 
