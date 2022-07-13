@@ -21,7 +21,7 @@ void main(){
   print('student 1 age = ${Student1.age =22}');
   print('student 1 email = ${Student1.email = 'sajanbaisil12@gmail.com'}');
   print('student 1 course = ${StudentDetails.course}');
-  mark(60);
+  mark(88);
   print('----------------------------------------------------');
 
   StudentDetails Student2 = StudentDetails();
